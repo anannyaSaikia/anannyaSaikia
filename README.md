@@ -25,11 +25,11 @@ Here are some ideas to get you started:
             justify-content: center;
             width: 300px;"
         align="center">
-        <h5 align="center">I am a Full Stack MERN Developer • I have learned and applied my knowledge of HTML, CSS, JS and React in
+        <h3 align="center">I am a Full Stack MERN Developer • I have learned and applied my knowledge of HTML, CSS, JS and React in
             multiple projects • Broadening my horizon in React, MongoDB and Node.js • Currently looking for
-            opportunities to work and build with enthusiasts of Tech world </h5>
+            opportunities to work and build with enthusiasts of Tech world </h3>
         <div>
-            <h3>Github Stats:</h3>
+            <h2>Github Stats:</h2>
             <div style="display : flex">
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
                     alt="">
