@@ -23,7 +23,7 @@ Here are some ideas to get you started:
             style="margin: auto;
             display: flex;
             justify-content: center;
-            width: 450px;"
+            width: 300px;"
         align="center">
         <h5 align="center">I am a Full Stack MERN Developer • I have learned and applied my knowledge of HTML, CSS, JS and React in
             multiple projects • Continuously broadening my horizon in React, MongoDB and Node.js • Currently looking for
