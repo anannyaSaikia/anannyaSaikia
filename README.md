@@ -28,4 +28,17 @@ Here are some ideas to get you started:
         <h5 align="center">I am a Full Stack MERN Developer • I have learned and applied my knowledge of HTML, CSS, JS and React in
             multiple projects • Broadening my horizon in React, MongoDB and Node.js • Currently looking for
             opportunities to work and build with enthusiasts of Tech world </h5>
+        <div>
+            <h3>Github Stats:</h3>
+            <div>
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
+                    alt="">
+                <img src="https://github-readme-stats.vercel.app/api?username=anannyaSaikia&show_icons=true&theme=synthwave"
+                    alt="">
+            </div>
+            <div>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anannyaSaikia&layout=compact"
+                    alt="">
+            </div>
+        </div>
     </div>
