@@ -30,7 +30,7 @@ Here are some ideas to get you started:
             opportunities to work and build with enthusiasts of Tech world </h3>
         <div>
             <h2>Github Stats:</h2>
-            <div style="display : flex">
+            <div style="display : grid; grid-template-columns : repeat(2, 1fr)">
                 <img src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
                     alt="">
                 <img src="https://github-readme-stats.vercel.app/api?username=anannyaSaikia&show_icons=true&theme=synthwave"
