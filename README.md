@@ -65,9 +65,9 @@ Here are some ideas to get you started:
         </div>
             <h2>Github Stats</h2>
             <div >
-                <img style="width : 400px;" src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
+                <img style="width : 350px;" src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
                     alt="">
-                <img style="width : 350px;" src="https://github-readme-stats.vercel.app/api?username=anannyaSaikia&show_icons=true&theme=synthwave"
+                <img style="width : 325px;" src="https://github-readme-stats.vercel.app/api?username=anannyaSaikia&show_icons=true&theme=synthwave"
                     alt="">
             </div>
             <div>
