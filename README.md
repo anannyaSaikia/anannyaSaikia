@@ -63,9 +63,9 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
                 alt="Github">
         </div>
-            <h2>Github Stats:</h2>
+            <h2>Github Stats</h2>
             <div >
-                <img style="width : 430px;" src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
+                <img style="width : 400px;" src="https://github-readme-streak-stats.herokuapp.com?user=anannyaSaikia&theme=sunset-gradient"
                     alt="">
                 <img style="width : 400px;" src="https://github-readme-stats.vercel.app/api?username=anannyaSaikia&show_icons=true&theme=synthwave"
                     alt="">
