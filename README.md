@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div >
-        <h2 >Hello 👋 </h2>
-        <h2 >This is Anannya Saikia</h2>
+        <h2 align="center">Hello 👋 </h2>
+        <h2 align="center">This is Anannya Saikia</h2>
         <img class="top_image"
             src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
             alt="Top_Image"
