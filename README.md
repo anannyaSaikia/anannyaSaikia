@@ -27,7 +27,11 @@ Here are some ideas to get you started:
             multiple projects • Broadening my horizon in React, MongoDB and Node.js • Currently looking for
             opportunities to work and build with enthusiasts of Tech world </h3>
         <div>
-                <div>
+        <div>
+                <a href="anannyaSaikia.github.io/">Portfolio</a>
+        </div>
+
+<div>
             <h2>Connect with me via</h2>
             <a href="https://www.linkedin.com/in/anannya-saikia-521363239"><img
                     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
