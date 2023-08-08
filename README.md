@@ -78,7 +78,4 @@ Here are some ideas to get you started:
                     alt="">
             </div>
         </div>
-        <div>       
-                <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4"/>
-        </div>
     </div>
