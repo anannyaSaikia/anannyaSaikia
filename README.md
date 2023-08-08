@@ -24,7 +24,7 @@ Here are some ideas to get you started:
             justify-content: center;
             width: 300px;">
         <h3 >I am a Full Stack MERN Developer • I have learned and applied my knowledge of HTML, CSS, JS and React in
-            multiple projects • Broadening my horizon in React, MongoDB and Node.js • Currently looking for
+            multiple projects • Broadening my horizon in React, MongoDB, Express.js and Node.js • Currently looking for
             opportunities to work and build with enthusiasts of Tech world </h3>
         <div>
         <div>
