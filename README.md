@@ -78,4 +78,7 @@ Here are some ideas to get you started:
                     alt="">
             </div>
         </div>
+        <div>
+                <img src="https://komarev.com/ghpvc/?username=anannyaSaikia&color=blueviolet"/>
+        </div>
     </div>
