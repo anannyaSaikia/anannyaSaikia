@@ -30,9 +30,7 @@ Here are some ideas to get you started:
         <div>
                 <h2>Portfolio</h2>
                 <a href="https://anannyaSaikia.github.io">Portfolio</a>
-        </div>
-      
-
+        </div>      
 <div>
             <h2>Connect with me via</h2>
             <a href="https://www.linkedin.com/in/anannya-saikia-521363239"><img
@@ -79,5 +77,8 @@ Here are some ideas to get you started:
                 <img style="width : 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anannyaSaikia&layout=compact"
                     alt="">
             </div>
+        </div>
+        <div>       
+                <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4"/>
         </div>
     </div>
