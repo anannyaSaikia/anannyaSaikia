@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <div>
         <div>
                 <h2>Portfolio</h2>
-                <a href="https://anannyaSaikia.github.io">Portfolio</a>
+                <a href="https://anannyaSaikia.github.io">anannyaSaikia.github.io</a>
         </div>      
 <div>
             <h2>Connect with me via</h2>
